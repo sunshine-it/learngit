@@ -19,3 +19,5 @@ Git tracks changes of files.
 Creating a new branch is quick.
 8.
 Creating a new branch is quick and simple.
+9.
+Edit on branch dev.
