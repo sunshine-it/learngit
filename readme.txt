@@ -22,3 +22,5 @@ Creating a new branch is quick and simple.
 9.
 Edit on branch dev.
 ok
+10.
+github and gitee.
